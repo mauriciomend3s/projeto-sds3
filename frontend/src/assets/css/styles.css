@@ -21,6 +21,9 @@ html, body {
 .footer {
     flex-shrink: 0;
     text-align: center;
+    bottom:0;
+    position:absolute;
+    width:100%;
 }
 
 .bg-primary {
