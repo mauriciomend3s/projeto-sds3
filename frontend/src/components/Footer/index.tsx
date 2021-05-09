@@ -3,9 +3,9 @@ const Footer = () => {
         <div>
             <footer className="footer mt-auto py-3 bg-dark">
                 <div className="container">
-                    <p className="text-light">App desenvolvido por <a href="https://github.com/mauriciomend3s" target="_blank" rel="noreferrer">Maurício Mendes</a></p>
+                    <p className="text-light">App desenvolvido por <a href="https://eun6g.csb.app/" target="_blank" rel="noreferrer">Maurício Mendes</a></p>
                     <p className="text-light"><small><strong>Semana Spring React</strong><br />
-      Evento promovido pela escola DevSuperior: <a href="https://github.com/mauriciomend3s" target="_blank" rel="noreferrer">GitHub</a></small></p>
+      Evento promovido pela escola DevSuperior: <a href="https://github.com/mauriciomend3s/projeto-sds3" target="_blank" rel="noreferrer">GitHub</a></small></p>
                 </div>
             </footer>
         </div>

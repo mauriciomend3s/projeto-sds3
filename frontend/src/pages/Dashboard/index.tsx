@@ -30,13 +30,10 @@ const Dashboard = () => {
 
                 <DataTable />
             </div>
-
-
-
+            <Footer />
         </>
-
     );
-    <Footer />
+    
 }
 
 export default Dashboard;
